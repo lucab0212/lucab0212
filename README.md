@@ -1,13 +1,13 @@
 ### Hi!
-In terms of technology, I'm really interested in:
+When it comes to technology, I'm really interested in:
 - 📡 communications and satellites
 - 🔊 audio processing and synthesizers
 - 📺 broadcast engineering, video processing and   
   analog video synthesis
 - 💿 obsolete media and the cultures surrounding it
-- 📏 documentation, tutoring and helping others
+- 📖 documentation, tutoring and helping others
 
-... and learning more about it.
+... and learning more about it :-)
 
 ```
      "Today we are witness to the dawn of a new communications era
